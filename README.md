@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">CloudlyBio</h2>
+ <h2 align="center">CloudlyBoi</h2>
  <p align="center">A simple not finished multipurpose, Discord bot! </p>
 </p>
 
