@@ -33,4 +33,4 @@ Cloudlyboi is an unfinished attempted recreation of my old Discord bot TheIronBo
 
 ## License
 
-All Rights Reserved unless otherwise explicitly stated.
+MIT License 
